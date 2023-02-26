@@ -1,1 +1,1 @@
-# starup
+# startup
